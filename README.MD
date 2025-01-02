@@ -43,10 +43,12 @@ A modern, responsive portfolio template built with HTML, CSS and JavaScript. Fea
 
 ## License
 
-This project is open-sourced under the MIT License - see the LICENSE file for details.
+Distributed under the MIT License - see the LICENSE file for details
 
 ## Acknowledgments
 
 - [Typed.js](https://github.com/mattboldt/typed.js/) for the typing animation
 - [Font Awesome](https://fontawesome.com/) for the icons
 - [Google Fonts](https://fonts.google.com/) for the fonts
+
+Questions, Comments? I would love to hear your feedback and keep learning <3
