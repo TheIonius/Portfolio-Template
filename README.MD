@@ -47,6 +47,6 @@ This project is open-sourced under the MIT License - see the LICENSE file for de
 
 ## Acknowledgments
 
-- Thanks to [Typed.js](https://github.com/mattboldt/typed.js/) for the typing animation
-- Thanks to [Font Awesome](https://fontawesome.com/) for the icons
-- Thanks to [Google Fonts](https://fonts.google.com/) for the fonts
+- [Typed.js](https://github.com/mattboldt/typed.js/) for the typing animation
+- [Font Awesome](https://fontawesome.com/) for the icons
+- [Google Fonts](https://fonts.google.com/) for the fonts
